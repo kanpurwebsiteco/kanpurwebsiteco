@@ -4,18 +4,18 @@ We help businesses to grow using digital mediums like social media and search en
 
 Providing Services Across The Globe
 
-Australia
-Brazil
-Cameroon
-Canada
-Denmark
-France
-Ghana
-India
-Indonesia
-Nepal
-Singapore
-Seychelles
-Spain
-United Kingdom
+Australia,
+Brazil,
+Cameroon,
+Canada,
+Denmark,
+France,
+Ghana,
+India,
+Indonesia,
+Nepal,
+Singapore,
+Seychelles,
+Spain,
+United Kingdom,
 United States
